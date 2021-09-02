@@ -1,0 +1,24 @@
+################################
+# Classes
+################################
+button				KEYWORD1
+start			KEYWORD1
+################################
+# Functions
+################################
+get_holdtime		KEYWORD2
+get_idletime					KEYWORD2
+
+get_lastbuttonstate					KEYWORD2
+
+get_buttonstate		KEYWORD2
+get_On_Off	KEYWORD2
+isReleased					KEYWORD2
+
+isPressed				KEYWORD2
+
+setMinimum				KEYWORD2
+setMaximum				KEYWORD2
+getValue				KEYWORD2
+
+
