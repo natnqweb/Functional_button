@@ -14,6 +14,6 @@ void loop()
 {
     button1.start();
  
-    button1.ispressed() ? digitalWrite(ledpin, 1) : digitalWrite(ledpin, 0);
+    button1.isPressed() ? digitalWrite(ledpin, 1) : digitalWrite(ledpin, 0);
    
 }
